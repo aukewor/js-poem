@@ -5,7 +5,7 @@ JS demo:
 - boolean (true or false, commonly used for if conditions)
 - array ( [ __ , ___ , ___ ])
   - array.length (total number of items in the array)
-  - array[*] (* is a number; target an item in the array using index)
+  - array[ * ] (* is a number; target an item in the array using index)
 - HTML query selector (document.querySelector("*"))
 - anonymous function (function () {})
 - event listener (addEventListener( __ , __ )
